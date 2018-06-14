@@ -1,9 +1,9 @@
 # Image Processing / Grundlagen Bildverarbeitung (PS)
 
 
-This repository contains solutions to the assignments of the course _*"Image Processing & Computer Vision"*_ conducted by [Prof. Dr. Kwitt](https://rkwitt.github.io/) at the University of Salzburg, Department of Computer Science.
+This repository contains solutions to the assignments of the course __*"Image Processing & Computer Vision"*__ conducted by [Prof. Dr. Kwitt](https://rkwitt.github.io/) at the University of Salzburg, Department of Computer Science.
 
-The course is part of the Master degree programs "Computer Science" and "Applied Image and Signal Processing". [The Image Processing & Computer Vision course](https://github.com/rkwitt/teaching/tree/master/WS1718/IP) was conducted in WS 2017.
+The course is part of the Master degree programs __*"Applied Image and Signal Processing"*__. [The Image Processing & Computer Vision course](https://github.com/rkwitt/teaching/tree/master/WS1718/IP) was conducted in WS 2017.
 
 
 ## Assignments
