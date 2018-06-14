@@ -40,11 +40,12 @@ If this works, your are all set. To start a Jupyter notebook, run
 ```bash
 jupyter notebook
 ```
-###Tools
-Python 2.7 or 3
-Skimage Framework
-OpenCV Framework
-Numpy / Scipy / Pickle Framework
+### Tools
+
+* Python 2.7 or 3
+* Skimage Framework
+* OpenCV Framework
+* Numpy / Scipy / Pickle Framework
 
 ## Exercise Sheets
 
