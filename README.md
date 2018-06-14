@@ -6,22 +6,32 @@ This repository contains solutions to the assignments of the course "Image Proce
 The course is part of the Master degree programs "Computer Science" and "Applied Image and Signal Processing". The Image Processing & Computer Vision course was conducted in WS 2017.
 
 
-Assignments
-Assignment 1
-Warm up: Experiment with the skimage Harris corner detector, and explore the effect of changes in its parameters. E.g., study the effect of different values of Gaussian smoothing and different values of gamma in the response function.
+### Assignments
 
-Assignment 2
-Implementation of a very simple version of the Histogram-Of-Oriented-Gradients (HOG) descriptor of an image (region).
+## Assignment 1
 
-Assignment 3
-Implementation of a very simple image classifier based on HOG signatures. In particular, we will build a classifier for the infamous 15 scenes dataset. This dataset consists of (grayscale) scene images from 15 scenes.
+#Exercise 1.1 (5 points)
+Write a Python function avg_H_global which takes as input the filename of an RGB image and computes the average value of the H channel. This value should be returned
 
-Assignment 4
-Implementation of a convolutional neural network (CNN) for people counting (i.e., a regression task). Specifically, we use the UCSD Pedestrian dataset for this. This dataset has surveillance videos overlooking a sidewalk, where each frame is annotated by the number of people walking. For more details, see the dataset description available at the link above.
+#Exercise 1.2 
+Write a Python function avg_H_per_block which takes, as input, a filename of an RGB image as well as a tuple (N,M) that specifies a block size. 
 
-Assignment 5
-Implementation of our own neural network layer (in our case, an activation function) in PyTorch.
+# Assignment 2
 
+
+# Assignment 3
+
+
+# Assignment 4
+
+
+# Assignment 5
+
+
+# Assignment 6
+
+
+# Assignment 7
 
 ### Recommendation
 
@@ -47,14 +57,6 @@ jupyter notebook
 * OpenCV Framework
 * Numpy / Scipy / Pickle Framework
 
-## Exercise Sheets
 
-- Install Anaconda and play around with Jupyter notebooks (not graded)
-- [Exercise sheet 1](Ex1) - 
-- [Exercise sheet 2](Ex2) - 
-- [Exercise sheet 3](Ex3) - 
-- [Exercise sheet 4](Ex4) - 
-- [Exercise sheet 5](Ex5) - 
-- [Exercise sheet 6](Ex6) -
-- [Exercise sheet 7](Ex7) - 
+
 
