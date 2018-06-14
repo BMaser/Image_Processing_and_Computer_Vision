@@ -7,7 +7,7 @@ The course is part of the Master degree programs "Computer Science" and "Applied
 
 
 ## Assignments
-
+```bash
 ### Assignment 1
 
 ##### Exercise 1.1(5 points)
@@ -64,7 +64,7 @@ Download the 15 scenes dataset and select a couple of images from each category.
 
 ##### Exercise 7.1 (20 points)
 In this exercise, we will implement a relatively simple image segmentation algorithm that is similar to the ideas presented in the SLIC superpixels paper.
-
+```
 
 ### Recommendation
 
