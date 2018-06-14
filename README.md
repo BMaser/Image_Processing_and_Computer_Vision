@@ -38,14 +38,33 @@ same as Exercise 3.1 from above, but use a Gaussian smoothing filter and vary th
 
 ### Assignment 4
 
+##### Exercise 4.1 (10 points)
+Write a Python function that performs smoothing (with a Gaussian kernel) in the Fourier domain.
+
 
 ### Assignment 5
+
+##### Exercise 5.1 (10 points)
+Implementing an additive (spread-spectrum) watermarking scheme, based on the 2D wavelet transform.
+
+##### Exercise 5.2 (10 points)
+Implementing a simple (correlation-based) watermark detector for the watermarking algorithm of Exercise 5.1 and evaluate this detector with a couple of randomly chosen watermarks.
 
 
 ### Assignment 6
 
+##### Exercise 6.1 (15 points)
+In this exercise, we will implement a very simple version of the Histogram-Of-Oriented-Gradients (HOG) descriptor of an image(region).
+
+##### Bonus (5 points):
+Download the 15 scenes dataset and select a couple of images from each category. Then, compute for each grayscale image its simple HOG descriptor. Voila, if you now do 1-Nearest Neighbor classification (e.g., using the Euclidean distance between the vectors) you have a first, admittely very simple, image classifier.
+
 
 ### Assignment 7
+
+##### Exercise 7.1 (20 points)
+In this exercise, we will implement a relatively simple image segmentation algorithm that is similar to the ideas presented in the SLIC superpixels paper.
+
 
 ### Recommendation
 
