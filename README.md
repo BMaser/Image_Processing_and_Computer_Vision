@@ -16,22 +16,22 @@ Write a Python function avg_H_global which takes as input the filename of an RGB
 ##### Exercise 1.2 
 Write a Python function avg_H_per_block which takes, as input, a filename of an RGB image as well as a tuple (N,M) that specifies a block size. 
 
-# Assignment 2
+### Assignment 2
 
 
-# Assignment 3
+### Assignment 3
 
 
-# Assignment 4
+### Assignment 4
 
 
 # Assignment 5
 
 
-# Assignment 6
+### Assignment 6
 
 
-# Assignment 7
+### Assignment 7
 
 ### Recommendation
 
